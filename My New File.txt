@@ -1,4 +1,0 @@
-This is a test.
-This is my first change.
-This is my second change.
-This is a GitHub change.
