@@ -36,7 +36,7 @@
 /** define('DB_COLLATE', ''); */
 
 /** =============================LOCAL SETTINGS==========================================================*/
-define('REVISR_GIT_PATH', 'C:\Users\lcarver\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\git-cmd.exe'); // Added by Revisr
+define('REVISR_GIT_PATH', 'C:\Program Files\Git\cmd\git.exe'); // Added by Revisr
 define('DB_NAME', 'kimcoblogdb_new');
 
 /** MySQL database username */
